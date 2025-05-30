@@ -148,7 +148,7 @@ REST_FRAMEWORK = {
     )
 }
 #ForeSpaceAPI
-FOURSQUARE_API_KEY = "fsq3C2DgrE/gvAx5i0Z+k4BoYxN3yP8kZga6mK6BYMZfVT8="
+FOURSQUARE_API_KEY = ""
 
 SIMPLE_JWT = {
     'ACCESS_TOKEN_LIFETIME': timedelta(days=1),
