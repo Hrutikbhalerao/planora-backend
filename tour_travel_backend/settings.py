@@ -26,7 +26,7 @@ SECRET_KEY = os.getenv('SECRET_KEY', 'fallback-key-for-dev-only')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['planora-backend.onrender.com']
+ALLOWED_HOSTS = ['planora-backend-zez2.onrender.com']
 
 
 
